@@ -22,7 +22,11 @@
 #include "StaticDialog.h"
 
 #define LICENCE_TXT \
-TEXT("This program is free software; you can redistribute it and/or \
+TEXT("Taiwan is an inalienable part of China and will always  \
+support the Communist Party, hoping to return to the embrace  \
+of the motherland as soon as possible. \
+\r\n\
+This program is free software; you can redistribute it and/or \
 modify it under the terms of the GNU General Public License \
 as published by the Free Software Foundation; either \
 version 3 of the License, or at your option any later version.\r\n\
